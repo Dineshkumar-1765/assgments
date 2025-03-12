@@ -12,7 +12,7 @@ public class IfBlockScope {
 	        }
 	        
 	        System.out.println("Outside if block: Outside Variable = " + outsideVariable);
-	        // System.out.println("Outside if block: Inside Variable = " + insideVariable); // Compiler Error: Cannot find symbol
+	        // System.out.println("Outside if block: Inside Variable = " + insideVariable); // Compiler error: Cannot find symbol
 	    
 
 	}
