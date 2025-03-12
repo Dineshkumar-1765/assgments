@@ -17,7 +17,7 @@ public class TypeCasting {
 	        System.out.println("long to float: " + floatValue);
 	        System.out.println("float to double: " + doubleValue);
 
-	        // Narrowing Conversion (Explicit Casting)
+	        // (Explicit Casting)
 	        double doubleVal = 99.99;
 	        float floatVal = (float) doubleVal; // double to float
 	        long longVal = (long) floatVal; // float to long
